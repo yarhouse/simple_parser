@@ -1,0 +1,5 @@
+This is my first project on github
+
+Created a simple email parser with php.
+
+To use this, you will need to gather the raw email info from your email (like gmail) and save this to a text file. Use the upload form I've created, and it'll parse your email into relevant and readable fields, along with information about your file at the very top of the page.
