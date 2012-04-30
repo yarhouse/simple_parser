@@ -1,0 +1,26 @@
+body{
+	font-family:arial;
+	width:600px;
+	background-color:#FFFFFF;
+	border: solid 5px #000000;
+	padding:0px;
+	float:left;
+	left:50%;
+	top:0px;
+	margin-left:-300px;
+	position:absolute;
+	}
+
+div.form{margin:10px 20px;float:left;width:300px;border: solid 0px #000000;}
+
+div.file_input{border: solid 0px #000000;}
+div.file_label{margin:10px 20px;border: solid 0px #000000;}
+div.submit_button{margin:20px 0px 0px 100px;border: solid 0px #000000;}
+
+div.header{padding:5px;float:left;width:;border-right:solid 5px #000000;}
+div.info{padding:5px;float:left;}
+div.content{padding:5px;float:left;width:590px;border-top:solid 5px #000000;}
+
+p.about{padding:5px;width:inherit;float:left;border: solid 0px #000000;}
+
+img.validator{float:right;vertical-align:bottom;padding:5px;margin:70px 10px 0px 0px;}
